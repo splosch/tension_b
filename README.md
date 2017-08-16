@@ -1,6 +1,11 @@
 # "Tension Bee"
 Sketch of a super lightweight, easy assembly drone frame that is made sturdy by tension.
 
+## Files
+The Project was created with 123D Design from autodesk
+STLs of the Parts & 123D Files are attached
+The STLs of the Connectors can be 3D Printed right away without support
+
 ## Idea
 Some flat & flexible bars e.g. Carbon Fiber or Glass Fiber flatbars are connected with simple / angled connectors in to a ring-shape. At least 2 but more edges can be used - in this demo 4 connectors form a ring-shape structure.
 
